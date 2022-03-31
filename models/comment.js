@@ -13,7 +13,10 @@ Comment.init(
             validate: {
             len: [4]
             }
-        },
+        }, 
+        
+        
+
         user_id: {
             type: DataTypes.INTEGER,
             allowNull: false,
@@ -31,6 +34,9 @@ Comment.init(
             }
         }
     },
+
+
+    
     {
         sequelize,
         freezeTableName: true,
