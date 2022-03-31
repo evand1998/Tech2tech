@@ -10,7 +10,7 @@ require('dotenv').config();
 const app = express();
 const PORT = process.env.PORT || 3603;
 const sess = {
-  secret: 'veryverysecret',
+  secret: 'verysecret',
   cookie: { maxAge: 180},
   resave: false,
   saveUninitialized: true,
