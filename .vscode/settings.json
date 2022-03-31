@@ -10,7 +10,7 @@
             "askForPassword": true,
             "driver": "MySQL",
             "name": "tech2tech",
-            "database": "tech-blogdb",
+            "database": "tech2tech",
             "username": "username1"
         }
     ]

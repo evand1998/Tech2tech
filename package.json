@@ -11,12 +11,14 @@
     "type": "git",
     "url": "https://github.com/evand1998/Tech2tech.git"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/evand1998/Tech2tech.git"
   },
+
   "homepage": "https://github.com/evand1998/Tech2tech.git#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
